@@ -19,9 +19,9 @@ pip install -e .
 ## Usage
 
 ```bash
-sshm add <alias> <user>@<host> [-p port]
-sshm list
-sshm setup-keys <alias>
-sshm connect <alias>
-sshm remove <alias>
+sshman add <alias> <user>@<host> [-p port]
+sshman list
+sshman setup-keys <alias>
+sshman connect <alias>
+sshman remove <alias>
 ```

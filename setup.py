@@ -8,7 +8,7 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'sshm=ssh_manager.cli:main',
+            'sshman=ssh_manager.cli:main',
         ],
     },
     install_requires=[],
